@@ -63,6 +63,7 @@ print("Area of a rectangle:", rec.calculate_area()) #call to 'calculate_area' me
 print("Area of a circle:", cir.calculate_area()) #call to 'calculate_area' method defined inside the class 'Circle'.
 
 ## Output
+<img width="1196" height="390" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/aafe35f8-78a2-4f75-9e24-c5d99478680a" />
 
 ## Result
 Thus the program is executed successfully.

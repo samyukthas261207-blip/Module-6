@@ -32,6 +32,7 @@ fish.type()
 
 shark.type()
 ## OUTPUT
+<img width="1053" height="629" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/e1bfb70b-d9c8-4d55-85ca-b7c3248a66af" />
 
 ## RESULT
 Thus the program is executed successfully.

@@ -50,6 +50,7 @@ for i in (obj_beans,obj_mango):
     i.type()
     i.color()
 ## Output
+<img width="661" height="539" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/6ff11d73-7f18-40de-bf1b-6fa1caca7546" />
 
 ## Result
 Thus the program is executed successfully.

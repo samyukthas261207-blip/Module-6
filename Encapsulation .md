@@ -37,6 +37,7 @@ obj = Rectangle()
 
 
 ## Output
+<img width="1187" height="546" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/63d05564-a3a7-4937-b4f0-c14bf7dcec46" />
 
 ## Result
 Thus the output is executed successfully.

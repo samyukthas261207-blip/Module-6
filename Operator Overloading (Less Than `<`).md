@@ -40,6 +40,7 @@ ob2 = A(3)
 
 print(ob1 < ob2)
 ## Output
+<img width="970" height="455" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/e3847dba-e922-4918-9221-e5317d3dff62" />
 
 ## Result
 Thus the program is executed successfully.
